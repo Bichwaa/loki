@@ -1,6 +1,6 @@
 ## About
 
-### LOKI🧙🏾
+### LOKI 🧙🏾
 
 A CLI text file encryption tool.
 
