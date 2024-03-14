@@ -1,5 +1,7 @@
 ## About
 
+[Mascot](mascot.jpeg)
+
 ### LOKI 🧙🏾
 
 A CLI text file encryption tool.
