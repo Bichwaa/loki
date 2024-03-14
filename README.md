@@ -1,6 +1,6 @@
 ## About
 
-[Mascot](mascot.jpeg)
+[Mascot](https://github.com/Bichwaa/loki/blob/main/mascot.jpeg)
 
 ### LOKI 🧙🏾
 
