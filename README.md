@@ -61,25 +61,25 @@ Also say your want the password that locks and unlocks this file to be `top secr
   `loki enc 'top secret, keep out!' file.txt`  
 
   Or one of these  
-  `loki enc -k 'top secret, keep out!' -f file.txt`
-  `loki enc -f file.txt -k 'top secret, keep out!'`  
+  `loki enc -k 'top secret, keep out!' -f file.txt`  
+  `loki enc -f file.txt -k 'top secret, keep out!'`   
 
     Or one of these  
-  `loki enc --key 'top secret, keep out!' --filepath file.txt`
-  `loki enc --filepath file.txt --key 'top secret, keep out!'`
+  `loki enc --key 'top secret, keep out!' --filepath file.txt`  
+  `loki enc --filepath file.txt --key 'top secret, keep out!'`  
 
 
 - to decrypt:  
   You can do it like this  
-  `loki dec 'top secret, keep out!' file.txt`  
+  `loki dec 'top secret, keep out!' file.txt`   
 
   Or one of these  
-  `loki dec -k 'top secret, keep out!' -f file.txt`
-  `loki dec -f file.txt -k 'top secret, keep out!'`  
+  `loki dec -k 'top secret, keep out!' -f file.txt`  
+  `loki dec -f file.txt -k 'top secret, keep out!'`    
 
     Or one of these  
-  `loki dec --key 'top secret, keep out!' --filepath file.txt`
-  `loki dec --filepath file.txt --key 'top secret, keep out!'`
+  `loki dec --key 'top secret, keep out!' --filepath file.txt`  
+  `loki dec --filepath file.txt --key 'top secret, keep out!'`  
 
 
 - to decrypt & print the result to terminal:  
@@ -87,12 +87,12 @@ Also say your want the password that locks and unlocks this file to be `top secr
   `loki decp 'top secret, keep out!' file.txt`  
 
   Or one of these  
-  `loki decp -k 'top secret, keep out!' -f file.txt`
-  `loki decp -f file.txt -k 'top secret, keep out!'`  
+  `loki decp -k 'top secret, keep out!' -f file.txt`  
+  `loki decp -f file.txt -k 'top secret, keep out!'`    
 
     Or one of these  
-  `loki decp --key 'top secret, keep out!' --filepath file.txt`
-  `loki decp --filepath file.txt --key 'top secret, keep out!'`
+  `loki decp --key 'top secret, keep out!' --filepath file.txt`  
+  `loki decp --filepath file.txt --key 'top secret, keep out!'`  
 
 
 ## Cry for help
