@@ -98,4 +98,4 @@ Also say your want the password that locks and unlocks this file to be `top secr
 ## Cry for help
 To encourage the building of more terrible sassy CLI tools, send the developer a meme coin at this address: 0xEca8a4a97aF13d40E196411AA843A18Cea4c4caf
 
-Remeber: meme coins and shit coins are best since the developer refuses to be helf accountable for maintaining this code.
+Remeber: meme coins and shit coins are best since the developer refuses to be held half accountable for maintaining this code.
